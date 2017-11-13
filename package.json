@@ -6,14 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ezarya/webpack-lecture.git"
-  },
-  "author": "",
+  "repository": "git+https://github.com/ezarya/webpack-lecture.git",
+  "author": "Yauheni Zara <e.zarya@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ezarya/webpack-lecture/issues"
   },
-  "homepage": "https://github.com/ezarya/webpack-lecture#readme"
+  "homepage": "https://github.com/ezarya/webpack-lecture#readme",
+  "dependencies": {
+    "webpack": "^3.8.1"
+  }
 }
