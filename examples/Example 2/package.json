@@ -1,0 +1,6 @@
+{
+    "name": "example-2",
+    "peerDependencies": {
+        "webpack": "^3.8.1"
+    }
+}
