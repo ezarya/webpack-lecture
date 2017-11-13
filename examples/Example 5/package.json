@@ -1,6 +1,8 @@
 {
-    "name": "example-5",
-    "peerDependencies": {
-        "webpack": "^3.8.1"
-    }
+  "name": "example-5",
+  "private": true,
+  "license": "ISC",
+  "dependencies": {
+      "webpack": "^3.8.1"
+  }
 }

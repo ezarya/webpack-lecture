@@ -12,8 +12,5 @@
   "bugs": {
     "url": "https://github.com/ezarya/webpack-lecture/issues"
   },
-  "homepage": "https://github.com/ezarya/webpack-lecture#readme",
-  "dependencies": {
-    "webpack": "^3.8.1"
-  }
+  "homepage": "https://github.com/ezarya/webpack-lecture#readme"
 }

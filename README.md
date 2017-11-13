@@ -15,15 +15,13 @@
 - Adding a Config File
 - Watch Mode and the Webpack Dev Server
 - Building Multiple Files
-- Using Loaders
-- Using Preloaders
+- Rules
 - Creating a Start Script
 - Production vs. Dev Builds
 
 ## Advanced Builds with Webpack
 - Organizing Files and Folders
-- Working with ES6 Modules
-- Adding Source Maps
+- Source Maps
 - Creating Multiple Bundles
 
 ## Adding CSS to Your Build
